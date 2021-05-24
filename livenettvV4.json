@@ -69,12 +69,12 @@
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "loader": {
-        "enabled": true,
+        "enabled": false,
         "duration": 4000
       }
     },
     "rating": {
-      "enabled": true
+      "enabled": false
     },
     "popup": {
       "_comment": "link= , appid, url",
@@ -91,7 +91,7 @@
       "start": {
         "enabled": false,
         "loader": {
-          "enabled": true,
+          "enabled": false,
           "duration": 4000
         }
       },
@@ -104,7 +104,7 @@
           "_comment": "type = image, text, card",
           "type": "card",
           "loader": {
-            "enabled": true,
+            "enabled": false,
             "duration": 4000
           }
         }
@@ -127,11 +127,7 @@
       {
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
         "title": "Test title 1",
-        "description": "Test description 1",
-        "locker": {
-          "_comment": "type=rewarded_ad",
-          "type": "rewarded_ad"
-        }
+        "description": "Test description 1"
       },
       {
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
@@ -177,6 +173,10 @@
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
         "title": "Test title 8",
         "description": "Test description 8"
+         "locker": {
+          "_comment": "type=rewarded_ad",
+          "type": "rewarded_ad"
+        },
       }
     ]
   }
