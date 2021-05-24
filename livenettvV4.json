@@ -176,7 +176,7 @@
          "locker": {
           "_comment": "type=rewarded_ad",
           "type": "rewarded_ad"
-        },
+        }
       }
     ]
   }
