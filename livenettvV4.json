@@ -128,10 +128,6 @@
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
         "title": "Test title 1",
         "description": "Test description 1",
-        "locker": {
-          "_comment": "type=rewarded_ad",
-          "type": "rewarded_ad"
-        }
       },
       {
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
@@ -177,6 +173,10 @@
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
         "title": "Test title 8",
         "description": "Test description 8"
+        "locker": {
+          "_comment": "type=rewarded_ad",
+          "type": "rewarded_ad"
+        }
       }
     ]
   }
