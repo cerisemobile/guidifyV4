@@ -10,7 +10,7 @@
       }
     },
     "ads": {
-      "enabled": false,
+      "enabled": true,
       "mode_ads_banner": "facebook",
       "mode_ads_interstitial": "facebook",
       "mode_ads_native": "facebook",
@@ -29,10 +29,10 @@
         "admob_unit_id": ""
       },
       "facebook": {
-        "facebook_banner_id": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-        "facebook_interstitial_id": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-        "facebook_native_id": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782",
-        "facebook_mediumrect_id": "IMG_16_9_APP_INSTALL#893870180793867_1789798824534327",
+        "facebook_banner_id": "379069400187093_379072946853405",
+        "facebook_interstitial_id": "379069400187093_379075590186474",
+        "facebook_native_id": "379069400187093_379076453519721",
+        "facebook_mediumrect_id": "379069400187093_379077680186265",
         "facebook_rewarded_id": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
       },
       "unity": {
@@ -120,6 +120,9 @@
   "data": {
     "items": [
       {
+        "type": "native_ad"
+      },
+      {
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
         "title": "Test title 0",
         "description": "Test description 0"
@@ -172,11 +175,7 @@
       {
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
         "title": "Test title 8",
-        "description": "Test description 8",
-         "locker": {
-          "_comment": "type=rewarded_ad",
-          "type": "rewarded_ad"
-        }
+        "description": "Test description 8"
       }
     ]
   }
