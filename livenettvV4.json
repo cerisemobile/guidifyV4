@@ -104,7 +104,7 @@
           "_comment": "type = image, text, card",
           "type": "text",
           "loader": {
-            "enabled": false,
+            "enabled": true,
             "duration": 4000
           }
         }
