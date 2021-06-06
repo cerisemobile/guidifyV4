@@ -10,7 +10,7 @@
       }
     },
     "ads": {
-      "enabled": false,
+      "enabled": true,
       "mode_ads_banner": "facebook",
       "mode_ads_interstitial": "facebook",
       "mode_ads_native": "facebook",
@@ -29,10 +29,10 @@
         "admob_unit_id": ""
       },
       "facebook": {
-        "facebook_banner_id": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-        "facebook_interstitial_id": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-        "facebook_native_id": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782",
-        "facebook_mediumrect_id": "IMG_16_9_APP_INSTALL#893870180793867_1789798824534327",
+        "facebook_banner_id": "512982003091266_512982243091242",
+        "facebook_interstitial_id": "512982003091266_512982873091179",
+        "facebook_native_id": "512982003091266_512983169757816",
+        "facebook_mediumrect_id": "512982003091266_512983556424444",
         "facebook_rewarded_id": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
       },
       "unity": {
@@ -128,18 +128,11 @@
         "image": "https://play-lh.googleusercontent.com/NB4Hqir0zCcnSe6CuiZi8mnl5ITahh8BKXcuTK7H-BqHVv9cixeJgx1ZnxnMtNBRUrsS=w720-h310-rw",
         "title": "",
         "description": "",
-        "locker": {
-          "_comment": "type=rewarded_ad",
-          "type": "rewarded_ad"
-        }
       },
       {
         "image": "https://play-lh.googleusercontent.com/liLUTgPxDkp-kBe9Lc-UC65Ya4tYIl6rFykDA1ETd0At_vna0xEBqiZA57llTef3n1Q=w720-h310-rw",
         "title": "",
         "description": ""
-      },
-      {
-        "type": "native_ad"
       },
       {
         "image": "https://play-lh.googleusercontent.com/XsE_0WxuOVXKg7IZ01SPqOQ6WXj3Ue5fVayzxbtdkQkJe5zgToHjAZoOnxwzTjzVKYA=w720-h310-rw",
@@ -157,9 +150,6 @@
         "description": ""
       },
       {
-        "type": "native_ad"
-      },
-      {
         "image": "https://play-lh.googleusercontent.com/ROc1BfQHvaWxc7bH9Cl0AEzGl-b7bBce07A1ysSj88zlF-sMriPRGPJa6YmtZ31S8w=w720-h310-rw",
         "title": "",
         "description": ""
@@ -168,9 +158,6 @@
         "image": "https://play-lh.googleusercontent.com/NZB2_0-mrz7Y9xabEWuNn2BC1cbvNdHr9ScB1VRCvc9r4WcQ8JHKVqKyyZLK3GbNCw=w720-h310-rw",
         "title": "",
         "description": ""
-      },
-      {
-        "type": "native_ad"
       },
       {
         "image": "https://play-lh.googleusercontent.com/RoSij7ixyqlvNXyrKUaSHSxTfLSL5gB8jkGRnBLcv3e6bzX1sjZ1Pt5CiHGNQQKHdNx-",
