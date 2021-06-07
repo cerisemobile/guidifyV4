@@ -120,6 +120,9 @@
   "data": {
     "items": [
       {
+        "type": "native_ad"
+      },
+      {
         "image": "https://play-lh.googleusercontent.com/08GOEO4ZUzeby0Cqy84BmRYC4B9WDj8ZhIyX30PJD9PCStCbo2gex7JHSB78owSHBQ=w720-h310-rw",
         "title": "",
         "description": ""
@@ -133,6 +136,9 @@
         "image": "https://play-lh.googleusercontent.com/liLUTgPxDkp-kBe9Lc-UC65Ya4tYIl6rFykDA1ETd0At_vna0xEBqiZA57llTef3n1Q=w720-h310-rw",
         "title": "",
         "description": ""
+      },
+      {
+        "type": "native_ad"
       },
       {
         "image": "https://play-lh.googleusercontent.com/XsE_0WxuOVXKg7IZ01SPqOQ6WXj3Ue5fVayzxbtdkQkJe5zgToHjAZoOnxwzTjzVKYA=w720-h310-rw",
@@ -150,6 +156,9 @@
         "description": ""
       },
       {
+        "type": "native_ad"
+      },
+      {
         "image": "https://play-lh.googleusercontent.com/ROc1BfQHvaWxc7bH9Cl0AEzGl-b7bBce07A1ysSj88zlF-sMriPRGPJa6YmtZ31S8w=w720-h310-rw",
         "title": "",
         "description": ""
@@ -163,6 +172,9 @@
         "image": "https://play-lh.googleusercontent.com/RoSij7ixyqlvNXyrKUaSHSxTfLSL5gB8jkGRnBLcv3e6bzX1sjZ1Pt5CiHGNQQKHdNx-",
         "title": "",
         "description": ""
+      },
+      {
+        "type": "native_ad"
       }
     ]
   }
