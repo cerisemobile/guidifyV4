@@ -10,7 +10,7 @@
       }
     },
     "ads": {
-      "enabled": false,
+      "enabled": true,
       "mode_ads_banner": "facebook",
       "mode_ads_interstitial": "facebook",
       "mode_ads_native": "facebook",
@@ -127,7 +127,7 @@
       {
         "image": "https://play-lh.googleusercontent.com/NB4Hqir0zCcnSe6CuiZi8mnl5ITahh8BKXcuTK7H-BqHVv9cixeJgx1ZnxnMtNBRUrsS=w720-h310-rw",
         "title": "",
-        "description": "",
+        "description": ""
       },
       {
         "image": "https://play-lh.googleusercontent.com/liLUTgPxDkp-kBe9Lc-UC65Ya4tYIl6rFykDA1ETd0At_vna0xEBqiZA57llTef3n1Q=w720-h310-rw",
