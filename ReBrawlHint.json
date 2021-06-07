@@ -69,12 +69,12 @@
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "loader": {
-        "enabled": false,
+        "enabled": true,
         "duration": 4000
       }
     },
     "rating": {
-      "enabled": false
+      "enabled": true
     },
     "popup": {
       "_comment": "link= , appid, url",
@@ -113,7 +113,7 @@
         "type": "text, webview, richtext",
         "native_ad": false,
         "banner_ad": true,
-        "interstitial_ad": false
+        "interstitial_ad": true
       }
     }
   },
