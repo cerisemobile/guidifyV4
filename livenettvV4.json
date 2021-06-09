@@ -105,7 +105,7 @@
           "type": "image",
           "loader": {
             "enabled": true,
-            "duration": 4000
+            "duration": 5000
           }
         }
       },
